@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\sudip\.gradle\caches\transforms-3\e5d66b127a6cfee59fe2b07c5751f5e4\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sudip\.gradle\caches\transforms-3\6307104c08d3c176f742ed547724dad2\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\sudip\.gradle\caches\transforms-3\1921759461437fd4ee854ce5a852c722\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\964689bf6d20f6329e1bc39f28e1b204\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d54833d26e5fb16b363d22e459e01f7f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\3b31ecd9498b913b2eaa87a1a0573142\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\231567c53edca9a6179e28464f01438f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\2981cf571eb29434408ef109f40b24de\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\007f0eab6fb3c4561f6fb7e673feb9a1\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\ee41f6858218a9495c21b1c1edd89595\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\bb53207746d4a85d7e08dee39e5d4dc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\c588a7ba3656452022fb81e8bf53783a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\676f346f397085c9dce9494787971c68\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\3f87f29248570ac95a53ae0a9f783f74\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\7394dd4b6cd8c9819774f2f80160a753\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\13fb3d6c7be5a5c8075d4450152b9685\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d07a265d64beaacef9e3d4ace1a1b0ca\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\98d2a81e41fbcdd044343683040e0151\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\ba226a4271f78bcd1945d28e3b107a45\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\9d15bbf57ab95f3557780cb13740a9a7\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\sudip\.gradle\caches\transforms-3\55ed5b632f2374f897006f990d5b41a9\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sudip\.gradle\caches\transforms-3\6036056f201231191250aa6656e3830a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\f7574dbc633a55ad8b92a9e2f2797ec2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\0403e70172fe050258c0df9bc54a74b6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d2c35aa17f5f9a5976ec0cc311c02ea1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\95dcf7ede54983d0c5eadae1fe95003c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\7d261c2e47e67ae2a09e182eb031b5b1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\71b9cb0c81a594dd671375f6c3232cf3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\b444a52968063c1bbec346f65b2744ce\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sudip\.gradle\caches\transforms-3\05399978572452e79f483a8d5106dee4\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sudip\.gradle\caches\transforms-3\15d46f741c1cf4bbca85123a64f8c507\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\cf28ffedf93adc9bfdfe17fccfce8505\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\e5dd0ec50b9ea13d8d8eaf46e6675d46\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\983350a2c5a2bddf13e34cab8bff4625\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sudip\.gradle\caches\transforms-3\6307104c08d3c176f742ed547724dad2\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sudip\.gradle\caches\transforms-3\6307104c08d3c176f742ed547724dad2\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\sudip\.gradle\caches\transforms-3\1921759461437fd4ee854ce5a852c722\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\sudip\.gradle\caches\transforms-3\1921759461437fd4ee854ce5a852c722\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\sudip\.gradle\caches\transforms-3\55ed5b632f2374f897006f990d5b41a9\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\sudip\.gradle\caches\transforms-3\55ed5b632f2374f897006f990d5b41a9\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sudip\.gradle\caches\transforms-3\6036056f201231191250aa6656e3830a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sudip\.gradle\caches\transforms-3\6036056f201231191250aa6656e3830a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\sudip\.gradle\caches\transforms-3\55ed5b632f2374f897006f990d5b41a9\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:13:9-53
+activity#com.sushil.brithdaywishing.WishingScreen
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:15:13-68
+activity#com.sushil.brithdaywishing.MainActivity
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:18:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:23:27-74
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:grantUriPermissions
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:30:13-47
+	android:authorities
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:27:13-69
+	android:exported
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:28:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:31:13-33:47
+	android:resource
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:33:17-45
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:32:17-67
+meta-data#preloaded_fonts
+ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:35:9-37:57
+	android:resource
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml:36:13-43
+uses-sdk
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\sudip\.gradle\caches\transforms-3\e5d66b127a6cfee59fe2b07c5751f5e4\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\sudip\.gradle\caches\transforms-3\e5d66b127a6cfee59fe2b07c5751f5e4\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sudip\.gradle\caches\transforms-3\6307104c08d3c176f742ed547724dad2\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\sudip\.gradle\caches\transforms-3\6307104c08d3c176f742ed547724dad2\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\sudip\.gradle\caches\transforms-3\1921759461437fd4ee854ce5a852c722\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\sudip\.gradle\caches\transforms-3\1921759461437fd4ee854ce5a852c722\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\964689bf6d20f6329e1bc39f28e1b204\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\964689bf6d20f6329e1bc39f28e1b204\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d54833d26e5fb16b363d22e459e01f7f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d54833d26e5fb16b363d22e459e01f7f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\3b31ecd9498b913b2eaa87a1a0573142\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\3b31ecd9498b913b2eaa87a1a0573142\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\231567c53edca9a6179e28464f01438f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\231567c53edca9a6179e28464f01438f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\2981cf571eb29434408ef109f40b24de\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\2981cf571eb29434408ef109f40b24de\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\007f0eab6fb3c4561f6fb7e673feb9a1\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\sudip\.gradle\caches\transforms-3\007f0eab6fb3c4561f6fb7e673feb9a1\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\ee41f6858218a9495c21b1c1edd89595\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\ee41f6858218a9495c21b1c1edd89595\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\bb53207746d4a85d7e08dee39e5d4dc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\bb53207746d4a85d7e08dee39e5d4dc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\c588a7ba3656452022fb81e8bf53783a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\c588a7ba3656452022fb81e8bf53783a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\676f346f397085c9dce9494787971c68\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\676f346f397085c9dce9494787971c68\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\3f87f29248570ac95a53ae0a9f783f74\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\3f87f29248570ac95a53ae0a9f783f74\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\7394dd4b6cd8c9819774f2f80160a753\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\7394dd4b6cd8c9819774f2f80160a753\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\13fb3d6c7be5a5c8075d4450152b9685\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sudip\.gradle\caches\transforms-3\13fb3d6c7be5a5c8075d4450152b9685\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d07a265d64beaacef9e3d4ace1a1b0ca\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d07a265d64beaacef9e3d4ace1a1b0ca\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\98d2a81e41fbcdd044343683040e0151\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\98d2a81e41fbcdd044343683040e0151\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\ba226a4271f78bcd1945d28e3b107a45\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\ba226a4271f78bcd1945d28e3b107a45\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\9d15bbf57ab95f3557780cb13740a9a7\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\9d15bbf57ab95f3557780cb13740a9a7\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\sudip\.gradle\caches\transforms-3\55ed5b632f2374f897006f990d5b41a9\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\sudip\.gradle\caches\transforms-3\55ed5b632f2374f897006f990d5b41a9\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sudip\.gradle\caches\transforms-3\6036056f201231191250aa6656e3830a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sudip\.gradle\caches\transforms-3\6036056f201231191250aa6656e3830a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\f7574dbc633a55ad8b92a9e2f2797ec2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\f7574dbc633a55ad8b92a9e2f2797ec2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\0403e70172fe050258c0df9bc54a74b6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\0403e70172fe050258c0df9bc54a74b6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d2c35aa17f5f9a5976ec0cc311c02ea1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\d2c35aa17f5f9a5976ec0cc311c02ea1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\95dcf7ede54983d0c5eadae1fe95003c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\95dcf7ede54983d0c5eadae1fe95003c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\7d261c2e47e67ae2a09e182eb031b5b1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\7d261c2e47e67ae2a09e182eb031b5b1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\71b9cb0c81a594dd671375f6c3232cf3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\71b9cb0c81a594dd671375f6c3232cf3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\b444a52968063c1bbec346f65b2744ce\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sudip\.gradle\caches\transforms-3\b444a52968063c1bbec346f65b2744ce\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sudip\.gradle\caches\transforms-3\05399978572452e79f483a8d5106dee4\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sudip\.gradle\caches\transforms-3\05399978572452e79f483a8d5106dee4\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sudip\.gradle\caches\transforms-3\15d46f741c1cf4bbca85123a64f8c507\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sudip\.gradle\caches\transforms-3\15d46f741c1cf4bbca85123a64f8c507\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\cf28ffedf93adc9bfdfe17fccfce8505\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\cf28ffedf93adc9bfdfe17fccfce8505\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\e5dd0ec50b9ea13d8d8eaf46e6675d46\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\e5dd0ec50b9ea13d8d8eaf46e6675d46\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\983350a2c5a2bddf13e34cab8bff4625\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sudip\.gradle\caches\transforms-3\983350a2c5a2bddf13e34cab8bff4625\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sudip\Desktop\sushil\BirthdayApp\app\src\main\AndroidManifest.xml
